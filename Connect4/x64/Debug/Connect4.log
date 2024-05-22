@@ -1,0 +1,7 @@
+﻿  Board.cpp
+  Connect4.cpp
+C:\Users\sega\source\repos\Connect4\Connect4.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameManager.cpp
+  Generating Code...
+C:\Users\sega\source\repos\Connect4\GameManager.cpp(273): warning C4715: 'GameManager::gameStatus': not all control paths return a value
+  Connect4.vcxproj -> C:\Users\sega\source\repos\Connect4\x64\Debug\Connect4.exe
